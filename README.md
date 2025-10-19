@@ -1,16 +1,27 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ADD8E6,100:87CEFA&text=QmDeve&height=120&fontColor=#101010&fontSize=45&animation=twinkling&desc=Android+%2B+C+Developer&descSize=20&descAlignY=75" width="100%">
 
-<!--
-**QmDeve/QmDeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=QmDeve&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QmDeve">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+### Contact Me
+
+#### Me
+- **QQ**: [3100602519](https://qm.qq.com/q/FG4CVEZAsI)  
+- **Telegram**: [@QmDeve](https://t.me/qmdeve)
+
+#### Group
+- **Telegram Group**: [@QmDeves](https://t.me/qmdeves)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+
+
+<p align="center">
+  If you like my projects, don't forget to give them a Star!
+</p>
