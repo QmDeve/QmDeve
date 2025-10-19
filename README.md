@@ -12,16 +12,17 @@
 ### Contact Me
 
 #### Me
-- **QQ**: [3100602519](https://qm.qq.com/q/FG4CVEZAsI)  
-- **Telegram**: [@QmDeve](https://t.me/qmdeve)
+- **QQ**：[3100602519](https://qm.qq.com/q/FG4CVEZAsI)  
+- **Telegram**：[@QmDeve](https://t.me/qmdeve)
 
 #### Group
-- **Telegram Group**: [@QmDeves](https://t.me/qmdeves)
+- **Telegram Group**：[@QmDeves](https://t.me/qmdeves)
+- **WhatsApp Group**：[@QmDeves](https://chat.whatsapp.com/CoMWDBUOnC54NhitLWoMf8?mode=wwt)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 
 
 <p align="center">
-  If you like my projects, don't forget to give them a Star!
+  If you like my project, don’t forget to star it!
 </p>
