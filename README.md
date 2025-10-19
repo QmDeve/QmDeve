@@ -17,7 +17,6 @@
 
 #### Group
 - **Telegram Group**：[@QmDeves](https://t.me/qmdeves)
-- **WhatsApp Group**：[@QmDeves](https://chat.whatsapp.com/CoMWDBUOnC54NhitLWoMf8?mode=wwt)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
