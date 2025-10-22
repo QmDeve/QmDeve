@@ -9,13 +9,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-### Contact Me
-
-#### Me
-- **Telegram**：[@QmDeve](https://t.me/qmdeve)
-- **QQ**：[3100602519](https://qm.qq.com/q/FG4CVEZAsI)
-
-#### Group
+### Group
 - **Telegram Group**：[@QmDeves](https://t.me/qmdeves)
 - **QQ Group**：[1046829337](https://qm.qq.com/q/IsXoO3eOIg)
 
