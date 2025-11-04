@@ -1,7 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ADD8E6,100:87CEFA&text=QmDeve&height=120&fontColor=#101010&fontSize=45&animation=twinkling&desc=Android+%2B+C+Developer&descSize=20&descAlignY=75" width="100%">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=QmDeve&show_icons=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QmDeve">
