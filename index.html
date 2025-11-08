@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zh-CN">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="Access-Control-Allow-Origin" content="*" />
@@ -16,6 +16,33 @@
     <meta name="author" content="QmDeve" />
     <meta name="theme-color" content="#424242" />
     <title>QmDeve Home Page</title>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite", 
+      "name": "QmDeve",
+      "url": "https://me.qmdeve.com/",
+      "description": "QmDeve"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org", 
+      "@type": "Person",
+      "name": "QmDeve",
+      "url": "https://me.qmdeve.com/",
+      "description": "QmDeve",
+      "sameAs": [
+        "https://github.com/QmDeve",
+        "https://t.me/QmDeve",
+        "https://t.me/QmDeves",
+        "https://qm.qq.com/q/mvuHiHi5q0"
+      ]
+    }
+    </script>
+
     <link rel="stylesheet" href="https://s1.hdslb.com/bfs/static/jinkela/long/font/regular.css" />
     <script>
       if ( false || (!!window.MSInputMethodContext && !!document.documentMode))
@@ -25,13 +52,13 @@
     </script>
     <script type="module" crossorigin src="/assets/index-b9efdcb1.js"></script>
     <link rel="stylesheet" href="/assets/index-6307cc04.css">
-  <link rel="manifest" href="/manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="/registerSW.js"></script></head>
+    <link rel="manifest" href="/manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="/registerSW.js"></script>
+  </head>
 
   <body>
     <div id="app"></div>
     <noscript>
       <div style="text-align: center">Please enable JavaScript</div>
     </noscript>
-    
   </body>
 </html>
