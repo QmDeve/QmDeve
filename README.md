@@ -22,4 +22,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
+<div align="center">
 <img src="https://skillicons.dev/icons?i=github,androidstudio,idea,java,kotlin,cmake,c,cpp,vue,html,php,nodejs,js,ts,maven,git,docker,mysql&theme=dark">
+</div>
