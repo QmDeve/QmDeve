@@ -6,8 +6,13 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ### Group
-- **Telegram Group**：[@QmDeves](https://t.me/qmdeves)
-- **QQ Group**：[1046829337](https://qm.qq.com/q/IsXoO3eOIg)
+
+<a href="https://t.me/QmDeves" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-@QmDeves-blue?style=for-the-badge&logo=telegram" style="border-radius: 8px;">
+</a>
+<a href="https://qm.qq.com/q/dOqR9ZpKDe" target="_blank">
+  <img src="https://img.shields.io/badge/QQ-1046829337-blue?style=for-the-badge&logo=qq" style="border-radius: 8px;">
+</a>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
