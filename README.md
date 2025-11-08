@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ### Contact me：
- -**mail**：me@qmdeve.com
+ - **mail**：me@qmdeve.com
 
 ### Group：
 
