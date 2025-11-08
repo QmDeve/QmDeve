@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QmDeve&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QmDeve">
+  <img src="https://github-readme-stats.vercel.app/api?username=QmDeve&show_icons=true&random=1">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QmDeve&random=2">
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
