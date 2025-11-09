@@ -8,9 +8,9 @@
 <img src="./assets/colored.png" width="100%">
 
 ### **My Project：**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QmDeve&repo=AndroidLiquidGlassView&theme=transparent&title_color=0b61f4&text_color=0b61f4)](https://github.com/QmDeve/AndroidLiquidGlassView)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QmDeve&repo=QmBlurView&theme=transparent&title_color=0b61f4&text_color=0b61f4)](https://github.com/QmDeve/QmBlurView)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QmDeve&repo=QmReflection&theme=transparent&title_color=0b61f4&text_color=0b61f4)](https://github.com/QmDeve/QmReflection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QmDeve&repo=AndroidLiquidGlassView&theme=transparent&title_color=0b61f4&text_color=0b61f4&random=2)](https://github.com/QmDeve/AndroidLiquidGlassView)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QmDeve&repo=QmBlurView&theme=transparent&title_color=0b61f4&text_color=0b61f4&random=2)](https://github.com/QmDeve/QmBlurView)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QmDeve&repo=QmReflection&theme=transparent&title_color=0b61f4&text_color=0b61f4&random=2)](https://github.com/QmDeve/QmReflection)
 
 <img src="./assets/colored.png" width="100%">
 
