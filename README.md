@@ -18,7 +18,8 @@
 
 <a href="mailto:me@qmdeve.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-me%40qmdeve.com-f96f0d?style=flat&logo=gmail&logoColor=white">
-</a> or <a href="mailto:admin@qmdeve.com" target="_blank">
+</a>
+<a href="mailto:admin@qmdeve.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-admin%40qmdeve.com-f96f0d?style=flat&logo=gmail&logoColor=white">
 </a>
 <br>
