@@ -19,12 +19,6 @@
 <a href="mailto:me@qmdeve.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-me%40qmdeve.com-f96f0d?style=flat&logo=gmail&logoColor=white">
 </a>
-<a href="mailto:ran@qmdeve.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-ran%40qmdeve.com-f96f0d?style=flat&logo=gmail&logoColor=white">
-</a>
-<a href="mailto:admin@qmdeve.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-admin%40qmdeve.com-f96f0d?style=flat&logo=gmail&logoColor=white">
-</a>
 <br>
 <a href="https://t.me/QmDeve" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-@QmDeve-f96f0d?style=flat&logo=telegram&logoColor=white">
