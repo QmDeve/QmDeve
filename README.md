@@ -7,7 +7,11 @@
 
 <img src="./assets/colored.png" width="100%">
 
-![Profile Views](https://komarev.com/ghpvc/?username=QmDeve&color=0b61f4&style=flat-square)
+### **Profile Views:**
+![Profile Views](https://komarev.com/ghpvc/?username=QmDeve&color=0b61f4&style=for-the-badge)
+
+### **Trophy Case:**
+[![trophy](https://github-profile-trophy.vercel.app/?username=QmDeve&row=1&margin-w=10&margin-h=10)](https://github.com/QmDeve)
 
 <img src="./assets/colored.png" width="100%">
 
