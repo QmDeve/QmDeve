@@ -7,19 +7,11 @@
 
 <img src="./assets/colored.png" width="100%">
 
-![profile views](https://komarev.com/ghpvc/?username=QmDeve&color=0b61f4&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=QmDeve&color=0b61f4&style=flat-square)
 
 <img src="./assets/colored.png" width="100%">
 
-### **My Project：**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QmDeve&repo=AndroidLiquidGlassView&theme=transparent&title_color=0b61f4&text_color=0b61f4&random=3)](https://github.com/QmDeve/AndroidLiquidGlassView)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QmDeve&repo=QmBlurView&theme=transparent&title_color=0b61f4&text_color=0b61f4&random=4)](https://github.com/QmDeve/QmBlurView)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rouneant&repo=Qm-Authenticator-for-Android&theme=transparent&title_color=0b61f4&text_color=0b61f4&random=5)](https://github.com/Rouneant/Qm-Authenticator-for-Android)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QmDeve&repo=QmReflection&theme=transparent&title_color=0b61f4&text_color=0b61f4&random=5)](https://github.com/QmDeve/QmReflection)
-
-<img src="./assets/colored.png" width="100%">
-
-### **Contact me：**
+### **Contact me:**
 
 <a href="mailto:me@qmdeve.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-me%40qmdeve.com-f96f0d?style=flat&logo=gmail&logoColor=white">
@@ -33,19 +25,18 @@
   <img src="https://img.shields.io/badge/QQ-3100602519-f96f0d?style=flat&logo=qq&logoColor=white">
 </a>
 
-### **Group：**
+### **Discus:**
 
 <a href="https://t.me/QmDeves" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-@QmDeves-0b61f4?style=flat&logo=telegram&logoColor=white">
+  <img src="https://img.shields.io/badge/Telegram%20Group-@QmDeves-0b61f4?style=flat&logo=telegram&logoColor=white">
 </a>
 <br>
 <a href="https://qm.qq.com/q/dOqR9ZpKDe" target="_blank">
-  <img src="https://img.shields.io/badge/QQ-1046829337-0b61f4?style=flat&logo=qq&logoColor=white">
+  <img src="https://img.shields.io/badge/QQ%20Group-1046829337-0b61f4?style=flat&logo=qq&logoColor=white">
 </a>
 
 <img src="./assets/colored.png" width="100%">
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=github,androidstudio,idea,vscode,phpstorm,htmx,java,kotlin,cmake,c,cpp,vue,vuetify,html,php,nodejs,js,ts,maven,git,npm,docker,mysql,nginx&theme=dark" width="100%">
+<img src="https://skillicons.dev/icons?i=github,androidstudio,idea,vscode,phpstorm,htmx,java,kotlin,cmake,c,cpp,vue,html,php,nodejs,js,ts,maven,git,npm,docker,mysql&theme=dark" width="100%">
 </div>
-
