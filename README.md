@@ -42,5 +42,5 @@
 <img src="./assets/colored.png" width="100%">
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=github,androidstudio,idea,vscode,phpstorm,htmx,java,kotlin,cmake,c,cpp,vue,html,php,nodejs,js,ts,maven,git,npm,docker,mysql&theme=dark" width="100%">
+<img src="https://skillicons.dev/icons?i=github,androidstudio,idea,vscode,phpstorm,java,kotlin,cmake,c,cpp,vue,html,nodejs,js,ts,maven,git,npm&theme=dark" width="100%">
 </div>
