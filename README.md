@@ -1,6 +1,6 @@
 <img align="left" width = 35% src="./assets/photo2.png"> <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QmDeve&show_icons=true&random=2&theme=transparent&icon_color=0b61f4&title_color=0b61f4&text_color=0b61f4">
+  <img src="https://stats.qmdeve.com/api?username=QmDeve&show_icons=true&random=2&theme=transparent&icon_color=0b61f4&title_color=0b61f4&text_color=0b61f4">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QmDeve&random=1&show_icons=true&theme=transparent&icon_color=0b61f4&title_color=0b61f4&text_color=0b61f4">
 </p>
