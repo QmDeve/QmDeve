@@ -30,7 +30,7 @@
 <a href="https://www.facebook.com/QmDeve" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-@QmDeve-f96f0d?style=flat&logo=facebook&logoColor=white">
 </a>
-<bt>
+<br>
 <a href="https://signal.me/#eu/4-uR5zm-3Mh2KzFk2ZdTjIfchYdhiH_jv0HuMbleVShHEEO_UKNDpZems3Ajc9AX" target="_blank">
   <img src="https://img.shields.io/badge/Signal-@QmDeve%2E31-f96f0d?style=flat&logo=signal&logoColor=white">
 </a>
