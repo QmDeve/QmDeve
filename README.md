@@ -17,7 +17,7 @@
 
 <img src="./assets/colored.png" width="100%">
 
-### **Contact me:**
+### **Me:**
 
 <a href="mailto:me@qmdeve.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-me%40qmdeve.com-f96f0d?style=flat&logo=gmail&logoColor=white">
@@ -25,6 +25,10 @@
 <br>
 <a href="https://t.me/QmDeve" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-@QmDeve-f96f0d?style=flat&logo=telegram&logoColor=white">
+</a>
+<br>
+<a href="https://x.com/qmdeve" target="_blank">
+  <img src="https://img.shields.io/badge/-@QmDeve-f96f0d?style=flat&logo=x&logoColor=white">
 </a>
 <br>
 <a href="https://www.facebook.com/QmDeve" target="_blank">
