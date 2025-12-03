@@ -20,11 +20,11 @@
 ### **Me:**
 
 <a href="mailto:me@qmdeve.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-me%40qmdeve.com-f96f0d?style=flat&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/-me%40qmdeve.com-f96f0d?style=flat&logo=gmail&logoColor=white">
 </a>
 <br>
 <a href="https://t.me/QmDeve" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-@QmDeve-f96f0d?style=flat&logo=telegram&logoColor=white">
+  <img src="https://img.shields.io/badge/-@QmDeve-f96f0d?style=flat&logo=telegram&logoColor=white">
 </a>
 <br>
 <a href="https://x.com/qmdeve" target="_blank">
@@ -32,19 +32,19 @@
 </a>
 <br>
 <a href="https://www.facebook.com/QmDeve" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-@QmDeve-f96f0d?style=flat&logo=facebook&logoColor=white">
+  <img src="https://img.shields.io/badge/-@QmDeve-f96f0d?style=flat&logo=facebook&logoColor=white">
 </a>
 <br>
 <a href="https://signal.me/#eu/4-uR5zm-3Mh2KzFk2ZdTjIfchYdhiH_jv0HuMbleVShHEEO_UKNDpZems3Ajc9AX" target="_blank">
-  <img src="https://img.shields.io/badge/Signal-@QmDeve%2E31-f96f0d?style=flat&logo=signal&logoColor=white">
+  <img src="https://img.shields.io/badge/-@QmDeve%2E31-f96f0d?style=flat&logo=signal&logoColor=white">
 </a>
 <br>
 <a href="https://line.me/ti/p/kwyaXnfA2F" target="_blank">
-  <img src="https://img.shields.io/badge/LINE-@QmDeve-f96f0d?style=flat&logo=line&logoColor=white">
+  <img src="https://img.shields.io/badge/-@QmDeve-f96f0d?style=flat&logo=line&logoColor=white">
 </a>
 <br>
 <a href="https://qm.qq.com/q/mmANTYzcey" target="_blank">
-  <img src="https://img.shields.io/badge/QQ-3100602519-f96f0d?style=flat&logo=qq&logoColor=white">
+  <img src="https://img.shields.io/badge/-3100602519-f96f0d?style=flat&logo=qq&logoColor=white">
 </a>
 
 ### **Discus:**
