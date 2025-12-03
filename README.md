@@ -24,7 +24,7 @@
 </a>
 <br>
 <a href="https://t.me/QmDeve" target="_blank">
-  <img src="https://img.shields.io/badge/-@QmDeve-f96f0d?style=flat&logo=telegram&logoColor=white">
+  <img src="https://img.shields.io/badge/Telegram-f96f0d?style=flat&logo=telegram&logoColor=white">
 </a>
 <br>
 <a href="https://x.com/qmdeve" target="_blank">
