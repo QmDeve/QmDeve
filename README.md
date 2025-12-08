@@ -35,6 +35,10 @@
   <img src="https://img.shields.io/badge/Facebook-f96f0d?style=flat&logo=facebook&logoColor=white">
 </a>
 <br>
+<a href="https://www.instagram.com/QmDeve" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-f96f0d?style=flat&logo=instagram&logoColor=white">
+</a>
+<br>
 <a href="https://signal.me/#eu/4-uR5zm-3Mh2KzFk2ZdTjIfchYdhiH_jv0HuMbleVShHEEO_UKNDpZems3Ajc9AX" target="_blank">
   <img src="https://img.shields.io/badge/Signal-f96f0d?style=flat&logo=signal&logoColor=white">
 </a>
