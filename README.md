@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/-@QmDeve-f96f0d?style=flat&logo=x&logoColor=white">
 </a>
 <br>
-<a href="https://signal.me/#eu/4-uR5zm-3Mh2KzFk2ZdTjIfchYdhiH_jv0HuMbleVShHEEO_UKNDpZems3Ajc9AX" target="_blank">
+<a href="https://signal.me/#eu/FFylUyl_RFPCbEmetLg0KpGz1wSoPlWjeiym_U-T2-VxBeI8RkFJwbvOxOKQn1n1" target="_blank">
   <img src="https://img.shields.io/badge/Signal-f96f0d?style=flat&logo=signal&logoColor=white">
 </a>
 <br>
