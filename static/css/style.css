@@ -155,7 +155,6 @@ body {
     flex-direction: row;
 }
 
-
 .qmdeve-left {
     overflow-y: scroll;
     width: 230px;
@@ -184,8 +183,6 @@ body {
     background-size: cover;
     border-radius: 50%;
 }
-
-
 
 .left-div {
     flex-shrink: 0;
@@ -217,8 +214,13 @@ body {
     height: 16px;
     fill:var(--fill);
     font-size: 18px;
-    margin-right: 10px;
+    margin-right: 6px;
 }
+
+.left-des-item:not(:last-child) {
+    margin-bottom: 6px;
+}
+
 .left-tag {
     display: flex;
     flex-direction: row;
@@ -277,8 +279,6 @@ body {
     display: none;
 }
 
-
-
 .qmdeve-right {
     width: calc(100% - 230px);
     display: flex;
@@ -311,10 +311,7 @@ body {
     margin-top: 7px;
 }
 
-
-
 .gradientText {
-
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-size: 200%;
@@ -396,7 +393,6 @@ body {
     height: 22px;
     fill:var(--fill);
     font-size: 22px;
-     margin-right: 3px;
 }
 .switch {
     width: 55px;
@@ -418,10 +414,6 @@ body {
     white-space: nowrap;
     display: none;
 }
-
-
-
-
 
 .iconItem:hover {
     width: 95px;
@@ -456,6 +448,7 @@ body {
     font-size: 26px;
     font-weight: 800;
     margin: 20px 0;
+    margin-left: 12px;
     transition: transform 0.4s ease;
 }
 .title i ,.title svg{
@@ -493,8 +486,8 @@ body {
     background-color: var(--item_bg_color);
     border-radius: 14px;
     padding: 15px;
-    height: 100px;
-    width: calc(25% - 15px);
+    height: auto;
+    width: auto;
     backdrop-filter: blur(var(--card_filter));-webkit-backdrop-filter: blur(var(--card_filter));
     transition: opacity 0.5s ease, background-color 0.2s ease, border 0.2s ease, transform 0.3s ease;
 
@@ -529,28 +522,14 @@ body {
     font-size: 18px;
 }
 
-.projectItemLeft p {
-    font-size: 12px;
-    margin-top: 15px;
-    color: var(--item_left_text_color);
-}
-
-
-.projectItemLeft h1 {
-    font-weight: normal;
-    font-size: 16px;
-    margin: 0px;
-
-    transition: font-size 0.4s ease;
-    color: var(--item_left_title_color);
-}
-
 .projectItemLeft {
     transition: width 0.4s ease;
-    height: 100%;
+    height: auto;
     width: 80%;
+    display: flex;
+    flex-direction: column;
+    margin: 14px;
 }
-
 
 .projectItemRight {
     overflow: hidden;
@@ -646,9 +625,9 @@ footer {
     }
 
     .b {
-        height: 110px;
+        height: auto;
         margin: 8px 15px;
-        width: calc(100% - 30px);
+        width: auto;
     }
 
 
@@ -768,14 +747,6 @@ footer {
     transform: translateY(0) scale(1);
 
 }
-
-
-
-
-
-
-
-
 
 .onoffswitch {
     position: relative;
