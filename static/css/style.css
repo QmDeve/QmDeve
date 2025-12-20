@@ -566,6 +566,41 @@ footer {
     bottom: 0;
 }
 
+.mobile-info {
+    display: none;
+    margin-bottom: 30px;
+    margin-top: 14px;
+    margin-left: 10.5px;
+    padding: 15px;
+    border-radius: 14px;
+    backdrop-filter: blur(var(--card_filter));
+    -webkit-backdrop-filter: blur(var(--card_filter));
+    background: var(--item_bg_color);
+    width: fit-content;
+}
+
+.mobile-info-item {
+    display: flex;
+    align-items: center;
+    line-height: 20px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    color: var(--main_text_color);
+}
+
+.mobile-info-item:last-child {
+    margin-bottom: 0;
+}
+
+.mobile-info-item svg {
+    width: 16px;
+    height: 16px;
+    fill: var(--fill);
+    font-size: 18px;
+    margin-right: 8px;
+    flex-shrink: 0;
+}
+
 @media (min-width: 800px) {
     .index-logo {
         display: none;
@@ -587,18 +622,24 @@ footer {
 }
 
 @media (max-width: 800px) {
+    .mobile-info {
+        display: block;
+    }
+    
     .qmdeve-left {
         display: none;
     }
-
+    
+    .qmdeve-right {
+        width: 100%;
+    }
+    
     .a .projectItemRight {
         display: none;
-
     }
 
     .a .projectItemRight img {
         display: none;
-
     }
 
     .a .projectItemLeft {
@@ -616,10 +657,6 @@ footer {
         width: auto;
     }
 
-    .qmdeve-right {
-        width: 100%;
-    }
-
     .tanChiShe {
         width: 100%;
     }
@@ -631,13 +668,10 @@ footer {
     .welcome {
         font-size: 10vw;
         margin: 2vw 0;
-
     }
 
     .iconContainer {
-
         margin-top: 4vw;
-
     }
 
     .projectItem {
@@ -650,6 +684,16 @@ footer {
 
     .skill #skillPc {
         display: none;
+    }
+}
+
+@media (min-width: 801px) {
+    .mobile-info {
+        display: none;
+    }
+    
+    .qmdeve-left {
+        display: flex;
     }
 }
 
