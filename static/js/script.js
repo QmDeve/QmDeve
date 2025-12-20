@@ -1,5 +1,28 @@
-document.addEventListener('contextmenu', function (event) {
-    event.preventDefault();
+document.addEventListener('DOMContentLoaded', function () {
+    const contactLinks = document.querySelectorAll('.contact-link');
+    contactLinks.forEach(link => {
+        link.addEventListener('click', function(e) {
+            e.stopPropagation();
+            const url = this.getAttribute('data-url');
+            const target = this.getAttribute('data-target') || '_self';
+                    
+            if (url.startsWith('mailto:')) {
+                window.location.href = url;
+            } else if (target === '_blank') {
+                window.open(url, '_blank');
+            } else {
+                window.location.href = url;
+            }
+            });
+
+            link.addEventListener('mouseenter', function() {
+                this.style.textDecoration = 'none';
+            });
+                
+            link.addEventListener('mouseleave', function() {
+                this.style.textDecoration = 'underline';
+            });
+    });
 });
 
 function setCookie(name, value, days) {
