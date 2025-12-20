@@ -455,12 +455,12 @@ body {
     transform: translateY(-5px);
 }
 
-.projectList {
+.aboutList {
     display: flex;
     flex-wrap: wrap;
 }
 
-.projectItem {
+.aboutItem {
     margin: 7px;
     display: flex;
     background-color: var(--item_bg_color);
@@ -475,7 +475,7 @@ body {
     transition: opacity 0.3s ease, background-color 0.3s ease, border 0.3s ease, transform 0.2s ease;
 }
 
-.projectItem {
+.aboutItem {
     display: flex;
     background-color: var(--item_bg_color);
     border-radius: 14px;
@@ -487,34 +487,34 @@ body {
     transition: opacity 0.5s ease, background-color 0.2s ease, border 0.2s ease, transform 0.3s ease;
 }
 
-.projectItem:hover {
+.aboutItem:hover {
     box-shadow: 0 8px 16px -4px #2c2d300c;
     transform: translateY(-2px);
 
 }
 
-.projectItem.pressed {
+.aboutItem.pressed {
     transform: scale(1);
     background-color: var(--item_hover_color);
 }
 
-.projectItem:hover .projectItemLeft {
+.aboutItem:hover .aboutItemLeft {
     width: 100%;
 }
 
-.projectItem:hover .projectItemRight {
+.aboutItem:hover .aboutItemRight {
     width: 0%;
 }
 
-.projectItem:hover .projectItemRight img {
+.aboutItem:hover .aboutItemRight img {
     transform: rotate(40deg);
 }
 
-.projectItem:hover h1 {
+.aboutItem:hover h1 {
     font-size: 18px;
 }
 
-.projectItemLeft {
+.aboutItemLeft {
     transition: width 0.4s ease;
     height: auto;
     width: 80%;
@@ -523,7 +523,7 @@ body {
     margin: 14px;
 }
 
-.projectItemRight {
+.aboutItemRight {
     overflow: hidden;
     transition: width 0.4s ease;
     display: flex;
@@ -533,7 +533,7 @@ body {
     height: 100%;
 }
 
-.projectItemRight img {
+.aboutItemRight img {
     height: 39px;
     width: 39px;
 }
@@ -612,7 +612,7 @@ footer {
         width: calc(50% - 20px);
     }
 
-    .projectItem {
+    .aboutItem {
         margin: 10px;
     }
 
@@ -633,16 +633,16 @@ footer {
     .qmdeve-right {
         width: 100%;
     }
-    
-    .a .projectItemRight {
+
+    .a .aboutItemRight {
         display: none;
     }
 
-    .a .projectItemRight img {
+    .a .aboutItemRight img {
         display: none;
     }
 
-    .a .projectItemLeft {
+    .a .aboutItemLeft {
         width: 100%;
     }
 
@@ -674,7 +674,7 @@ footer {
         margin-top: 4vw;
     }
 
-    .projectItem {
+    .aboutItem {
         padding: 10px;
     }
 
