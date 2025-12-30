@@ -31,10 +31,6 @@
   <img src="https://img.shields.io/badge/-@QmDeve-f96f0d?style=flat&logo=x&logoColor=white">
 </a>
 <br>
-<a href="https://signal.me/#eu/FFylUyl_RFPCbEmetLg0KpGz1wSoPlWjeiym_U-T2-VxBeI8RkFJwbvOxOKQn1n1" target="_blank">
-  <img src="https://img.shields.io/badge/Signal-f96f0d?style=flat&logo=signal&logoColor=white">
-</a>
-<br>
 <a href="https://qm.qq.com/q/mmANTYzcey" target="_blank">
   <img src="https://img.shields.io/badge/-3100602519-f96f0d?style=flat&logo=qq&logoColor=white">
 </a>
@@ -52,5 +48,5 @@
 <img src="./assets/colored.png" width="100%">
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=github,androidstudio,idea,vscode,phpstorm,java,kotlin,cmake,c,cpp,vue,html,nodejs,js,ts,maven,git,npm&theme=dark" width="100%">
+<img src="https://skillicons.dev/icons?i=github,androidstudio,idea,vscode,phpstorm,java,kotlin,python,cmake,c,cpp,vue,html,nodejs,js,ts,maven,git,npm&theme=dark" width="100%">
 </div>
