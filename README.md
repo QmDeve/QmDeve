@@ -12,9 +12,6 @@
 ### **Profile Views:**
 ![Profile Views](https://komarev.com/ghpvc/?username=QmDeve&color=0b61f4&style=for-the-badge)
 
-### **Trophy Case:**
-[![trophy](https://github-profile-trophy.vercel.app/?username=QmDeve&row=1&margin-w=10&margin-h=10)](https://github.com/QmDeve)
-
 <img src="./assets/colored.png" width="100%">
 
 ### **Me:**
@@ -25,10 +22,6 @@
 <br>
 <a href="https://t.me/QmDeve" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-f96f0d?style=flat&logo=telegram&logoColor=white">
-</a>
-<br>
-<a href="https://x.com/qmdeve" target="_blank">
-  <img src="https://img.shields.io/badge/-@QmDeve-f96f0d?style=flat&logo=x&logoColor=white">
 </a>
 <br>
 <a href="https://qm.qq.com/q/mmANTYzcey" target="_blank">
