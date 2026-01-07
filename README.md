@@ -37,9 +37,3 @@
 <a href="https://qm.qq.com/q/dOqR9ZpKDe" target="_blank">
   <img src="https://img.shields.io/badge/QQ%20Group-0b61f4?style=flat&logo=qq&logoColor=white">
 </a>
-
-<img src="./assets/colored.png" width="100%">
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=github,androidstudio,idea,vscode,phpstorm,java,kotlin,python,cmake,c,cpp,vue,html,nodejs,js,ts,maven,git,npm&theme=dark" width="100%">
-</div>
