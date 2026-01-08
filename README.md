@@ -1,10 +1,10 @@
 <img align="left" width = 35% src="./assets/photo2.png"> <br>
 <p align="center">
-  <img src="https://stats.qmdeve.com/api?username=QmDeve&show_icons=true&random=2&theme=transparent&icon_color=0b61f4&title_color=0b61f4&text_color=0b61f4&border_radius=28">
+  <img src="https://stats.qmdeve.com/api?username=QmDeve&show_icons=true&random=2&theme=transparent&icon_color=0b61f4&title_color=0b61f4&text_color=0b61f4&border_radius=30">
   <br>
-  <img src="https://stats.qmdeve.com/api/top-langs/?username=QmDeve&random=1&show_icons=true&theme=transparent&icon_color=0b61f4&title_color=0b61f4&text_color=0b61f4&border_radius=28">
+  <img src="https://stats.qmdeve.com/api/top-langs/?username=QmDeve&random=1&show_icons=true&theme=transparent&icon_color=0b61f4&title_color=0b61f4&text_color=0b61f4&border_radius=30">
   <br>
-  <img src="https://github-streak-stats.qmdeve.com/?user=QmDeve&theme=transparent&border_radius=28&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
+  <img src="https://github-streak-stats.qmdeve.com/?user=QmDeve&theme=transparent&border_radius=30&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
 </p>
 
 <img src="./assets/colored.png" width="100%">
