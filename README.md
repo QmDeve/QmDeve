@@ -9,7 +9,6 @@
 
 <img src="./assets/colored.png" width="100%">
 
-### **Profile Views:**
 ![Profile Views](https://komarev.com/ghpvc/?username=QmDeve&color=0b61f4&style=for-the-badge)
 
 <img src="./assets/colored.png" width="100%">
