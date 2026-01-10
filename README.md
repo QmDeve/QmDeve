@@ -15,8 +15,8 @@
 
 ### **Me:**
 
-<a href="mailto:me@qmdeve.com" target="_blank">
-  <img src="https://img.shields.io/badge/-me%40qmdeve.com-f96f0d?style=flat&logo=gmail&logoColor=white">
+<a href="mailto:donny@qmdeve.com" target="_blank">
+  <img src="https://img.shields.io/badge/-donny%40@qmdeve.com-f96f0d?style=flat&logo=gmail&logoColor=white">
 </a>
 <br>
 <a href="https://t.me/QmDeve" target="_blank">
