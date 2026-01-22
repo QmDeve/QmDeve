@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/-donny%40@qmdeve.com-f96f0d?style=flat&logo=gmail&logoColor=white">
 </a>
 <br>
-<a href="https://t.me/QmDeve" target="_blank">
+<a href="https://t.me/donny_yale" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-f96f0d?style=flat&logo=telegram&logoColor=white">
 </a>
 <br>
@@ -30,7 +30,7 @@
 
 ### **Discus:**
 
-<a href="https://t.me/QmDeves" target="_blank">
+<a href="https://t.me/QmDeve" target="_blank">
   <img src="https://img.shields.io/badge/Telegram%20Group-0b61f4?style=flat&logo=telegram&logoColor=white">
 </a>
 <br>
