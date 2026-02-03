@@ -34,6 +34,6 @@
   <img src="https://img.shields.io/badge/Telegram%20Group-0b61f4?style=flat&logo=telegram&logoColor=white">
 </a>
 <br>
-<a href="https://qm.qq.com/q/hXgM054NVu" target="_blank">
+<a href="https://qm.qq.com/q/NBHRYhce4y" target="_blank">
   <img src="https://img.shields.io/badge/QQ%20Group-0b61f4?style=flat&logo=qq&logoColor=white">
 </a>
