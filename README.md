@@ -1,6 +1,4 @@
-<h1 style="text-decoration: none; border-bottom: none;">Hello, I'm Donny Yale</h1>
-
-![Divider Line](./assets/colored.png)
+# Hello, I'm Donny Yale
 
 ![GitHub Stats](https://stats.qmdeve.com/api?username=QmDeve&show_icons=true&random=2&theme=transparent&icon_color=0b61f4&title_color=0b61f4&text_color=0b61f4&border_radius=30)
 
