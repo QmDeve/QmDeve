@@ -1,4 +1,4 @@
-# Hello, I'm Donny Yale
+# Hello, I'm Donny Yang
 
 ![GitHub Stats](https://stats.qmdeve.com/api?username=QmDeve&show_icons=true&random=2&theme=transparent&icon_color=0b61f4&title_color=0b61f4&text_color=0b61f4&border_radius=30)
 
@@ -16,7 +16,7 @@
 
 ### Contact Me:
 [![Email](https://img.shields.io/badge/-donny%40@qmdeve.com-f96f0d?style=flat&logo=gmail&logoColor=white)](mailto:donny@qmdeve.com)
-[![Telegram](https://img.shields.io/badge/Telegram-f96f0d?style=flat&logo=telegram&logoColor=white)](https://t.me/donny_yale)
+[![Telegram](https://img.shields.io/badge/Telegram-f96f0d?style=flat&logo=telegram&logoColor=white)](https://t.me/donny_yang)
 [![QQ](https://img.shields.io/badge/-3100602519-f96f0d?style=flat&logo=qq&logoColor=white)](https://qm.qq.com/q/mmANTYzcey)
 
 ### Groups:
