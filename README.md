@@ -21,4 +21,4 @@
 
 ### Groups:
 [![telegram groups](https://img.shields.io/badge/Telegram%20Groups-0b61f4?style=flat&logo=telegram&logoColor=white)](https://t.me/QmDeve)
-[![qq groups](https://img.shields.io/badge/QQ%20Groups-0b61f4?style=flat&logo=qq&logoColor=white)](https://qm.qq.com/q/NBHRYhce4y)
+[![qq groups](https://img.shields.io/badge/QQ%20Groups-0b61f4?style=flat&logo=qq&logoColor=white)](https://qm.qq.com/q/fByphQZ8xG)
