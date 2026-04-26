@@ -7,7 +7,7 @@
 ![GitHub Streak](https://github-streak-stats.qmdeve.com/?user=QmDeve&theme=transparent&border_radius=30&date_format=%5BY.%5Dn.j)
 
 ### WebSite
-[![Personal Homepage](https://img.shields.io/badge/Personal%20Homepage-qmdeve.com-0b61f4?style=flat&logo=google-chrome&logoColor=white)](https://qmdeve.com)
+[![Homepage](https://img.shields.io/badge/Personal%20Homepage-qmdeve.com-0b61f4?style=flat&logo=google-chrome&logoColor=white)](https://qmdeve.com)
 
 ### Contact Me:
 [![Email](https://img.shields.io/badge/-donny%40qmdeve.com-f96f0d?style=flat&logo=gmail&logoColor=white)](mailto:donny@qmdeve.com)
@@ -16,4 +16,5 @@
 
 ### Groups:
 [![telegram groups](https://img.shields.io/badge/Telegram%20Groups-0b61f4?style=flat&logo=telegram&logoColor=white)](https://t.me/QmDeve)
+[![xchat groups](https://img.shields.io/badge/XChat%20Groups-202020?style=brightgreen&logo=x&logoColor=white)](https://x.com/i/chat/group_join/g2048366788006846529/LNvKUQelO9)
 [![qq groups](https://img.shields.io/badge/Tencent%20QQ%20Groups-0b61f4?style=flat&logo=qq&logoColor=white)](https://qm.qq.com/q/fByphQZ8xG)
