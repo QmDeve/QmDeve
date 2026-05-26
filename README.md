@@ -13,8 +13,3 @@
 [![Email](https://img.shields.io/badge/-donny%40qmdeve.com-f96f0d?style=flat&logo=gmail&logoColor=white)](mailto:donny@qmdeve.com)
 [![Telegram](https://img.shields.io/badge/Telegram-f96f0d?style=flat&logo=telegram&logoColor=white)](https://t.me/donny_yang)
 [![Tencent QQ](https://img.shields.io/badge/-3100602519-f96f0d?style=flat&logo=qq&logoColor=white)](https://qm.qq.com/q/mmANTYzcey)
-
-### Groups:
-[![telegram groups](https://img.shields.io/badge/Telegram%20Groups-0b61f4?style=flat&logo=telegram&logoColor=white)](https://t.me/QmDeve)
-[![xchat groups](https://img.shields.io/badge/XChat%20Groups-202020?style=brightgreen&logo=x&logoColor=white)](https://x.com/i/chat/group_join/g2048366788006846529/LNvKUQelO9)
-[![qq groups](https://img.shields.io/badge/Tencent%20QQ%20Groups-0b61f4?style=flat&logo=qq&logoColor=white)](https://qm.qq.com/q/fByphQZ8xG)
