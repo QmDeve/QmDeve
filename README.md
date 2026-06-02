@@ -1,11 +1,5 @@
 # Hello, I'm Donny Yang
 
-![GitHub Stats](https://stats.qmdeve.com/api?username=QmDeve&show_icons=true&random=2&theme=transparent&icon_color=0b61f4&title_color=0b61f4&text_color=0b61f4&border_radius=30)
-
-![GitHub Top Languages](https://stats.qmdeve.com/api/top-langs/?username=QmDeve&random=1&show_icons=true&theme=transparent&icon_color=0b61f4&title_color=0b61f4&text_color=0b61f4&border_radius=30)
-
-![GitHub Streak](https://github-streak-stats.qmdeve.com/?user=QmDeve&theme=transparent&border_radius=30&date_format=%5BY.%5Dn.j)
-
 ### WebSite
 [![Homepage](https://img.shields.io/badge/Personal%20Homepage-qmdeve.com-0b61f4?style=flat&logo=google-chrome&logoColor=white)](https://qmdeve.com)
 
